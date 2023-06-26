@@ -3,9 +3,14 @@ Shotgun Metagenome data handling practise
 
 # 해당 코드는 Linux(Ubuntu)를 바탕으로 진행됩니다.  
 
+[0. Git bash]  
+> Git bash 설치 후,  
+> $ git config --global user.name "깃허브이름"  
+> $ git config --global user.email "깃허브아이디"  
+> $ git clone https://github.com/WoobeenJeong/Basic_shotgun_metagenome.git #깃허브 주소  
+> 위 방식으로 작성하면 수정이 용이합니다.
 
 [1. 기본 설정]
-
 
 
 [2. 예시 데이터 출처]  
