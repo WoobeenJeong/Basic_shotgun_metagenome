@@ -19,7 +19,6 @@ Shotgun Metagenome data handling practise
 
 [1. 기본 설정]  
 **대부분의 유전체 분석 Tools은 Window 버전을 지원안하므로, 가상환경 필요**  
-예: 
 - AWS (Amazon Web service)  
 - WLS (Window subsytem for Linux)  
 - VirtualBox  
