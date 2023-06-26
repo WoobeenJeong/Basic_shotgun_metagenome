@@ -1,7 +1,7 @@
 # Basic_shotgun_metagenome
 Shotgun Metagenome data handling practise  
 
-# 해당 코드는 Linux(Ubuntu)를 바탕으로 진행됩니다.  
+### 해당 코드는 Linux(Ubuntu)를 바탕으로 진행됩니다.  
 
 [0. Git bash]  
 <details>
@@ -17,7 +17,7 @@ Shotgun Metagenome data handling practise
 </div>
 </details>
 
-[1. 기본 설정]
+[1. 기본 설정]  
 **대부분의 유전체 분석 Tools은 Window 버전을 지원안하므로, 가상환경 필요**  
 예: 
 - AWS (Amazon Web service)  
