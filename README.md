@@ -1,6 +1,7 @@
 ## Basic_shotgun_metagenome
 Shotgun Metagenome data handling practise 
 
+
 ### 해당 코드는 Linux(Ubuntu)를 바탕으로 진행됩니다.
 
 [0. Git bash]  
